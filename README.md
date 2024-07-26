@@ -16,4 +16,4 @@
 https://e-commerce-hs11.netlify.app/
 
 # e-commerce-hs11-Proje Gifi
-
+![gif](https://github.com/user-attachments/assets/3ea47210-8995-42cd-b278-97e149f53e60)
